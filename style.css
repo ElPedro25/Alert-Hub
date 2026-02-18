@@ -1,0 +1,45 @@
+body{
+background-color: #FC1723
+;
+
+}
+
+
+h1{
+font-size: 35px;
+color: #002362;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    font-size: 25px;
+    color: #001969;
+    font-style: normal;
+}
+
+h3{
+    font-size: 30px;
+    color: #000080;
+    font-weight: bold;
+    
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+
+button {
+    background-color: darkblue;
+    color: #FF0000;
+    height: 70px;
+    width: 170px;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+
+}
+
+
